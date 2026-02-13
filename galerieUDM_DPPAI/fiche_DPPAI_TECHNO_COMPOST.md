@@ -4,7 +4,7 @@
 
 
 ## Introduction
-À la galerie de l'université de Montréal, j'ai pu observer l'une des oeuvre de l'exposition nommée "Devenir partage. Pratique de l'IA". C'est une exposition temporaire qui se situe à l'intérieur du batiment la galerie de Montréal. Celle-ci finissait le 30 janvier 2026.
+Le 30 janvier 2026 à la galerie de l'université de Montréal, j'ai pu observer l'une des oeuvre de l'exposition nommée "Devenir partage. Pratique de l'IA". C'est une exposition temporaire qui se situe à l'intérieur du batiment la galerie de Montréal. Celle-ci finissait le 30 janvier 2026.
 
 
 ![Cartel utiliser pour décrire le cartel de la création multimédiatique de Marie-eve Levasseur](mediaUDM_DPPAI/cartel_01.JPG)
@@ -52,6 +52,7 @@ J'ai eu un grand plaisir à observer et utiliser l'oeuvre de Marie-eve Levasseur
 
 ## Référence
 Photo prise par: Nanthapricha Beaulieu et Amélie Pelletier dans un contexte scolaire.
+
 [Galerie de UDEM](https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)
 
 
