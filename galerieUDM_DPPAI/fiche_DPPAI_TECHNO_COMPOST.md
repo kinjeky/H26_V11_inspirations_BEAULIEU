@@ -30,6 +30,11 @@ L'utillisateur peut intéragir avec le monde 3D avec les casques VR et leurs fon
 >Photos de deux élève en immersion dans l'oeuvre de Marie-eve Levasseur "Techno-compost". La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
 
 
+## Diagramme de l'oeuvre
+![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme_techno-compost.png)
+![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme_techno-compost_02.png)
+
+
 ## De quoi parle l'oeuvre
 Marie-eve Levasseur a découvert un fichier caché qui garde toutes les images non utilisées lors de création générative d'image à l'aide de l'IA. Elle a donc décidées de "composter" ces images oubliées pour leur donner une deuxième vie dans son oeuvre "Techno-compost". On peut alors voirs ces images compostées tomber du ciel dans les casques vr et de voir leur destruction par des créatures insectoides qui mangent et compostent les images.
 
