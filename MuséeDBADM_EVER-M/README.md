@@ -1,1 +1,1 @@
-Toutes les inforamtions sur l'oeuvre EVER MORE au musée des beaux-arts de Montréal
+Toutes les informations sur l'oeuvre EVER MORE au musée des beaux-arts de Montréal
