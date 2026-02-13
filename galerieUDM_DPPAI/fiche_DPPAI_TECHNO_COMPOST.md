@@ -26,12 +26,13 @@ L'utillisateur peut intéragir avec le monde 3D avec les casques VR et leurs fon
 
 
 ![Une élève en pleine immersion dans la création "Compost" multimédiatique de Marie-eve Levasseur](mediaUDM_DPPAI/utilisation_VR_02.png)
+
 ![Un élève en pleine immersion dans la création "Compost" multimédiatique de Marie-eve Levasseur](mediaUDM_DPPAI/utilisation_vr.png)
 >Photos de deux élève en immersion dans l'oeuvre de Marie-eve Levasseur "Techno-compost". La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
 
 
 ## Diagramme de l'oeuvre
-![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme _techno-compost.png)
+![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme_techno-compost_01.png)
 ![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme_techno-compost_02.png)
 
 
