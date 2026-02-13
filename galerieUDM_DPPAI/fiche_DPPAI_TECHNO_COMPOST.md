@@ -31,7 +31,7 @@ L'utillisateur peut intéragir avec le monde 3D avec les casques VR et leurs fon
 
 
 ## Diagramme de l'oeuvre
-![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme_techno-compost.png)
+![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme _techno-compost.png)
 ![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme_techno-compost_02.png)
 
 
