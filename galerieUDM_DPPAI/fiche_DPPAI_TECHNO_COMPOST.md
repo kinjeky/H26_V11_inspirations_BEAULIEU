@@ -12,7 +12,7 @@
 
 
 ## L'oeuvre que j'ai choisi
-L'oeuvre qui m'a le plus intrigué est la création nommé "Techno-compost" de Marie-eve Levasseur créer en 2025. Elle consiste de deux chaise placer dans le coin d'une piece à environ 6m des murs avec un casque VR sur chacunes des chaises, un poster sur le mur et septs lumière. La première photo montre les chaises avec un poster sur le mur qui contient certaines des photos qui ont été "compostés". Il y a aussi quatre projecteurs qui pointes vers le poster pour l'éclairer dans la salle qui est généralement sombre. Même si on ne peut pas tous les voires, deux lumières sont assignées à l'éclairage des chaises au milieu de l'oeuvre. La deuxième montre l'une des chaise qui connectée au pc qui permet de s'occuper du bonfonctionnement de l'oeuvre, la création de l'unvivers 3D visible dans les casques VR ainsi qu'à la projection d'une des images "compostées" à l'aide d'un projecteur monté sur le plafond de la galerie. La dernière lumière est utilisées 
+L'oeuvre qui m'a le plus intrigué est la création nommé "Techno-compost" de Marie-eve Levasseur créer en 2025. Elle consiste de deux chaise placer dans le coin d'une piece à environ 6m des murs avec un casque VR sur chacunes des chaises, un poster sur le mur et septs lumières. La première photo montre les chaises avec un poster sur le mur qui contient certaines des photos qui ont été "compostés". Il y a aussi quatre projecteurs qui pointes vers le poster pour l'éclairer dans la salle qui est généralement sombre. Même si on ne peut pas tous les voires, deux lumières sont assignées à l'éclairage des chaises au milieu de l'oeuvre. La deuxième montre l'une des chaise qui connectée au pc qui permet de s'occuper du bonfonctionnement de l'oeuvre, la création de l'univers 3D visible dans les casques VR ainsi qu'à la projection d'une des image "compostées" à l'aide d'un projecteur monté sur le plafond de la galerie. La dernière lumière est utilisées pour illuminer le cartel de l'oeuvre.
 
 
 ![Démonstration de la création multimédiatique de Marie-eve Levasseur à partir du coté gauche de sa création où l'on peut voir deux chaises avec un casque VR dessus ainsi que certaines des images "compostées"](mediaUDM_DPPAI/vue_ensemble_01.png)
@@ -31,7 +31,7 @@ L'utillisateur peut intéragir avec le monde 3D avec les casques VR et leurs fon
 
 
 ## De quoi parle l'oeuvre
-Marie-eve Levasseur a découvert un fichier caché qui garde toutes les iamages non utilisées lors de création générative d'image à l'aide de l'IA. Elle a donc décider de "composter" ces images oubliées pour leur donner une deuxième vie dans son oeuvre "Techno-compost". On peut alors voirs ces images compostées tomber du ciel dans les casques vr et de voir leur destruction par des créatures insectoides qui mangent et compostent les images.
+Marie-eve Levasseur a découvert un fichier caché qui garde toutes les images non utilisées lors de création générative d'image à l'aide de l'IA. Elle a donc décidées de "composter" ces images oubliées pour leur donner une deuxième vie dans son oeuvre "Techno-compost". On peut alors voirs ces images compostées tomber du ciel dans les casques vr et de voir leur destruction par des créatures insectoides qui mangent et compostent les images.
 
 ![Un casque VR sur une chaise vue à un angle de 45 degrée vers la gauche](mediaUDM_DPPAI/VR_sur_chaise.png)
 >Photo d'un casque Vr sur une dchaise dans l'oeuvre "Techno-compost" de Marie-eve Levasseur. La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
@@ -41,7 +41,7 @@ Marie-eve Levasseur a découvert un fichier caché qui garde toutes les iamages 
 J'ai trouvé le concept de l'oeuvre vraiment intéressant avec les images compostées de l'IA générative. Je trouve que l'emplacement et la forme des chaises ainsi que les casques VR permettent une immersion complète dans l'oeuvre.
 
 
-Les deux plaintes sont que le poster sur le mur dépasse sur le plancher et que la mousse qui fait contact sur la peau peut causer de l'irritation ou une réaction allergique.
+Les deux plaintes sont que le poster sur le mur dépasse sur le plancher et que la mousse qui fait contact sur la peau sur les casques VR peut causer de l'irritation ou une réaction allergique.
 
 
 J'ai eu un grand plaisir à observer et utiliser l'oeuvre de Marie-eve Levasseur et j'ai hâte de voir des créations multimédiatique similaire dans le futur.
