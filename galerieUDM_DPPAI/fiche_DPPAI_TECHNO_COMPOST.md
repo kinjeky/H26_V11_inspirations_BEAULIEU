@@ -4,8 +4,8 @@
 ![](mediaUDM_DPPAI/VR_sur_chaise.png)
 ![](mediaUDM_DPPAI/devant_affiche.png)
 ![](mediaUDM_DPPAI/utilisation_VR_02.png)
-![](utilisation_vr.png)
-![](vue_ensemble_01.png)
-![](vue_ensemble_02.png)
+![](mediaUDM_DPPAI/utilisation_vr.png)
+![](mediaUDM_DPPAI/vue_ensemble_01.png)
+![](mediaUDM_DPPAI/vue_ensemble_02.png)
 
 
