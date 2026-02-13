@@ -50,6 +50,8 @@ J'ai eu un grand plaisir à observer et utiliser l'oeuvre de Marie-eve Levasseur
 ![Image de l'élève Nanthapricha Beaulieu devant l'affiche de l'exposition mutimédiatique de l'UDEM](mediaUDM_DPPAI/devant_affiche.png)
 >Photo de l'élève Nanthapricha beaulieu devant l'affice de la galerie de l'université de Montréal. La photo a été prise par Amélie Pelletier dans un contexte scolaire.
 
-
+## Référence
+Photo prise par: Nanthapricha Beaulieu et Amélie Pelletier dans un contexte scolaire.
+[Galerie de UDEM](https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)
 
 
