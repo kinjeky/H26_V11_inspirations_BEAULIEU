@@ -4,7 +4,7 @@
 
 
 ## Introduction
-Le jeudi 26 janvier je suis allé voir l'exposition de EVER MORE de Kurt Hentschlager sur la façade du Musée des beaux-arts de Montréal. C'est une exposition extérieur contemplative fait par Kurt Hentschlager qui comprend un mixte de nature, d'humain et de technologie.
+Le jeudi 26 janvier je suis allé voir l'exposition de EVER MORE de Kurt Hentschlager sur la façade du Musée des beaux-arts de Montréal. C'est une exposition extérieur contemplative fait par Kurt Hentschlager qui comprend un mixte de nature, d'humain et de technologie. L'exposition a été fait en 2025 et sera présent jusqu'aux 5 avril 2026.
 
 
 ![Cartel](media/cartel_EVERMORE.png)
@@ -12,7 +12,7 @@ Le jeudi 26 janvier je suis allé voir l'exposition de EVER MORE de Kurt Hentsch
 
 
 ## L'oeuvre que j'ai choisi
-L'oeuvre m'a intrigué, car c'est la première fois que j'avais l'opportunité d'aller voir une exposition multimédiatique extérieur tout seul et avec but de le regarder avec 100% de mon attention.
+j'ai choisi l'oeuvre EVER MORE de KUrt Hentschlager car celle-ci m'a intrigué. C'étais la première fois que j'avais l'opportunité d'aller voir une exposition multimédiatique extérieur tout seul et avec but de le regarder avec 100% de mon attention.
 
 
 ## Comment l'oeuvre fonctionne
