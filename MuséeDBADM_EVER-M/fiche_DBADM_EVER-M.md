@@ -1,22 +1,22 @@
 # EVER MORE de Kurt Hentschlager
-![Vue de face de la façade avan du Musée des beaux-arts de Montréal](media/facade_face)
->
+![Vue de face de la façade avan du Musée des beaux-arts de Montréal](media/facade_face.JPG)
+>Photo de la façade avant du Musée des beaux-arts de Montréal lors de l'exposition EVER MORE de Kurt Hentschlager prise par Nanthapricha Beaulieu
 
 
 ## Introduction
 Le jeudi 26 janvier je suis allé voir l'exposition de EVER MORE de kurt Hentschlager sur la façade du Musée des beaux-arts de Montréal. C'est une exposition extérieur contemplative fait par Kurt Hentschlager qui comprend un mixte de nature, d'humain et de technologie.
 
 
-![Cartel]()
->
+![Cartel](media/cartel_EVERMORE.png)
+>Photo du cartel de l'oeuvre EVER MORE de Kurt Hantschlager prise par Aaron Siveesna Meas-Sop
 
 
 ## L'oeuvre que j'ai choisi
 L'oeuvre m'a intriguer, car c'est la première fois que j'aivais l'opportunité d'aller voir une exposition multimédiatiqie extérieur tout seul et avec but de le regarder avec 100% de mon attention.
 
 
-![Démonstration]()
->.
+![Démonstration de la façade avant du Musée des beaux-Art de Montréal lors de l'exposition EVER MORE de Kurt Hentschlager](media/facade_45o.JPG)
+>Photo de la façade avant du Musée des beaux-arts de Montréal lors de l'exposition EVER MORE de Kurt Hentschlager prise par Nanthapricha Beaulieu
 
 
 
@@ -28,15 +28,17 @@ L'utilisateur ou pour cette fois-ci l'obervateur doit simplement regarder la vid
 Le dispositif mis en place est simple: deux projecteurs situés au troisième étage de l'édifice en face du batiment du Musée des beaux-arts de Montréal.
 
 ### Matériel nécessaire
-- Deux projecteurs
+- Deux projecteurs vidéo
 - Un ordinateur
 - Un grand mur (donner par le musée)
 
 
 
 ## Diagramme de l'oeuvre
-
-
+![Démonstration de la façade avant du Musée des beaux-Art de Montréal lors de l'exposition EVER MORE de Kurt Hentschlager](media/facade_45o.JPG)
+>Photo de la façade avant du Musée des beaux-arts de Montréal lors de l'exposition EVER MORE de Kurt Hentschlager prise par Nanthapricha Beaulieu
+![Projecteur utiliser pour mettre les images sur la façade pour l'oeuvre EVER MORE de Kurt Hentschlager](media/projecteurs.JPG)
+>Photo des projecteurs utiliser dans l'oeuvre EVER MORE de Kurt Hentschlager.
 
 ## De quoi parle l'oeuvre
 L'oeuvre parle des effets psychologiques et esthétiques de l'impaacte de l'activité humaien sur la nature. IL offre une expérience à la fois naturel et créé par l'humain. Les images qui sont présentées pendant la vidéo alterne entre la nature (bourgeon d'arbre), la technologie (rendu 3D de ficelle qui s'entre croise) et l'Homme (image de peinture avec le même style que la nuit étoilée de Van Gogh).
