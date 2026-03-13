@@ -29,7 +29,8 @@ Le dispositif mis en place est simple: deux projecteurs situés au troisième é
 
 ### Matériel nécessaire
 - Deux projecteurs
-- Un grand mur
+- Un ordinateur
+- Un grand mur (donner par le musée)
 
 
 
@@ -49,7 +50,7 @@ L'oeuvre est très bien installée et il n'y a pas eu de bug pendant mon expéri
 ### Pour le mauvais:
 Les projecteurs ne sont pas assez puissant même en pleine nuit (j'étais sur place vers 10:30 du soir) et le fait qe la façade fait face à une rue très utiliser le soir par les conducteurs de voitures n'aide pas au manque de puissance du dispositif. 
 
-Sans le cartel, il est très difficile de comprendre ce que l'artiste veut dire. Même si je comprend que la durée de l'oeuvre doit être courte et que se n'est pas tout le monde qui a plus que 5 minutes à regarder une oeuvre extérieur, j'aurais apprécier une expérience un peu plus longue (environ 10 min) pour permettre une meilleur compréhension du message de l'oeuvre. 
+Sans l'utilisation du cartel, il est très difficile de comprendre ce que l'artiste veut dire. Même si je comprend que la durée de l'oeuvre doit être courte et que se n'est pas tout le monde qui a plus que 5 minutes à regarder une oeuvre extérieur, j'aurais apprécier une expérience un peu plus longue (environ 10 min) pour permettre une meilleur compréhension du message de l'oeuvre. 
 
 ### Avis final
 L'oeuvre en elle-même est très intéressante et comprend une complexe relation entre la nature, l'Homme et la technologie.
