@@ -58,4 +58,4 @@ L'oeuvre en elle-même est très intéressante et comprend une complexe relation
 >
 
 ## Référence
-[https://www.mbam.qc.ca/fr/expositions/kurt-hentschlager-ever-more/]()
+[EVER MORE de Kurt Hentschlager](https://www.mbam.qc.ca/fr/expositions/kurt-hentschlager-ever-more/)
