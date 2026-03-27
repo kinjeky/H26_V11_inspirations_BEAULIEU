@@ -146,3 +146,11 @@ En ce vendredi 20 mars 2026, le projet est terminé et est en cours de présenta
 #### En général
 En général le dispositif fonctionne très bien et possède un concept intéressant, mais il manque un certain pouvoir d'attraction. Les visiteurs ont eu un peu plus de difficulté à approcher le dispositif par son manque de clareté par rapport à l'intention du projet.
 
+
+
+
+## Cours important pour la réalisation de projets similaire en TIM
+### Cours 01
+### Cours 02
+### Cours 03
+### Composante technique ou technologique non connu avant la présentation des projets
