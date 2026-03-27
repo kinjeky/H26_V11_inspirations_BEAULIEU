@@ -125,7 +125,8 @@ En ce vendredi 20 mars 2026, le projet est terminé et est en cours de présenta
 - La concept de se faire observer lors de l'exposition est intéressant, car les autres projets des finissant TIM se sont plus concentrés sur une installation intéractive de similaire à un jeu vidéo.
 - Le dispositif est très bien décoré et respecte la thématique de la nature et de l'observation des yeux.
 #### Points négatifs
-- Le dipostif n'est pas intuitif à utiliser durant la première visite, car il n'y avait des indicaitons clairs sur l'utilisation du dispositif.
+- Le dipostif n'est pas intuitif à utiliser durant la première visite, car il n'y avait des indicaitons clairs sur l'utilisation du dispositif. Cela à été améliorer après la deuxième visite avec une lumière qui indiquait où se placer et un schéma qui expliquait comment utiliser le dispositif.
 - Le bande sonor du dipositif était similair à un bruit statique. La fréquence était à peine perceptible et cela faissait un bourdonnement qui pouvait causer un mal de tête.
 #### En général
+En général le dispositif fonctionne très bien et possède un concept intéressant, mais il manque un certain pouvoir d'attraction. Les visiteurs ont eu un peu plus de difficulté à approcher le dispositif par son manque de clareté par rapport à l'intention du projet.
 
