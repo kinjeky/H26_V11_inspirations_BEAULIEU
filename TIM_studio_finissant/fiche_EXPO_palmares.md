@@ -109,15 +109,23 @@ Mon expérience en générale à été très bonne et sans aucun problème. Les 
 ## Quand les yeux se croisent
 
 ### Numéro de préférence
-
+Quand les yeux se croisent est en sixième place dans mon classement.
 ### Status du projet
-
+En ce vendredi 20 mars 2026, le projet est terminé et est en cours de présentation.
 ### Créateurs
-
+- Edelwyn Ledru
+- Félix Lavoie
+- Jade Hébert
+- Manel Yaya
+- Patricia Nassif
 ### Schéma de l'installation
 
 ### Mon expérience
 #### Points positifs
+- La concept de se faire observer lors de l'exposition est intéressant, car les autres projets des finissant TIM se sont plus concentrés sur une installation intéractive de similaire à un jeu vidéo.
+- Le dispositif est très bien décoré et respecte la thématique de la nature et de l'observation des yeux.
 #### Points négatifs
+- Le dipostif n'est pas intuitif à utiliser durant la première visite, car il n'y avait des indicaitons clairs sur l'utilisation du dispositif.
+- Le bande sonor du dipositif était similair à un bruit statique. La fréquence était à peine perceptible et cela faissait un bourdonnement qui pouvait causer un mal de tête.
 #### En général
 
