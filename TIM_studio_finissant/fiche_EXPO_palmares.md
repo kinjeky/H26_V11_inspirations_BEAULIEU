@@ -10,7 +10,11 @@ En ce vendredi 20 mars 2026, le projet est terminé et est en cours de présenta
 - Amira Tounekti
 - Kristy Moussaly
 ### Schéma de l'installation
-
+![Océan Rouge plan 2d cote](media_palmares/oceanR_plan2d_côté.png)
+![Océan Rouge plan 3d](media_palmares/oceanR_plan2d_face.png)
+![Océan Rouge plan 3d](media_palmares/oceanR_simulation3d-1.jpg)
+![Océan Rouge plan 3d](media_palmares/oceanR_simulation3d-2.jpg)
+> Plan de l'installation Océan Rouge fait par Amira Tounekti et Kristy Moussaly.
 ### Mon expérience
 #### Points positifs
 - Le jeux est très facile à jouer.
@@ -37,7 +41,10 @@ En ce vendredi 20 mars 2026, le projet est terminé et est en cours de présenta
 - Thearylou Lach
 - Jad Saloumi
 ### Schéma de l'installation
-
+![Plan 2d](media_palmares/mdecollage_plan2d.png)
+![Plan 3d arriere](media_palmares/mdecollage_plan3d-arriere.jpg)
+![Plan 3d avant](media_palmares/mdecollage_plan3d-avant.jpg)
+> Plan de l'installation Mission Décolage fait par Ahmed Kaissoumi, Radhouane Kordan, Justin Monpetit, Thearylou Lach et Jad Saloumi.
 ### Mon expérience
 #### Points positifs
 - Le jeux est très bien codé et il n'y a pas de bug apparent.
@@ -63,7 +70,10 @@ Les créateurs sont:
 - Ryan Dufault
 - Walid Cheour
 ### Schéma de l'installation
-
+![Plan 2d](media_palmares/symbiose_plan2d.webp)
+![Plan 3d cote](media_palmares/symbiose_plan3d-cote.webp)
+![Plan 3d cote](media_palmares/symbiose_plan3d_arriere.webp)
+> Plan de l'installation Symbiose fait par Yannick Chamberland, Benjamin Ferland, Ryan Dufault et  Walid Cheour.
 ### Mon expérience
 #### Points positifs
 - Mon expérience étais plaisante à cause de la simplicité des contrôlles et du mode co-op.
@@ -79,7 +89,7 @@ Les créateurs sont:
 Mon expérience genéral a été très bonne et les points négatifs sont mineurs.
 
 
-## Arbre en face
+## Arbre en Face
 
 ### Numéro de préférence
 Arbre en face est en troisième place dans mon classement.
@@ -93,7 +103,11 @@ En ce vendredi 20 mars 2026, le projet est terminé et est en cours de présenta
 - Rafael Angon Dube
   
 ### Schéma de l'installation
-
+![Plan 2d arriere](media_palmares/arbref_plan2d-arriere.jpg)
+![Plan 2d avant](media_palmares/arbref_plan2d-avant.jpg)
+![Plan 3d arriere](media_palmares/arbref_plan3d-arriere.jpg)
+![Plan 3d avant](media_palmares/arbref_plan3d-avant.jpg)
+> Plan de l'installation Arbre en Face de Alexandre Gendron, Mikael Arseneau, Matieu Willet, Matis Ghariani et Rafael Angon Dube.
 ### Mon expérience
 #### Points positifs
 - L'expérience est très drôle est surprenante.
@@ -119,7 +133,9 @@ En ce vendredi 20 mars 2026, le projet est terminé et est en cours de présenta
 - Manel Yaya
 - Patricia Nassif
 ### Schéma de l'installation
-
+![Plan 2d](media_palmares/qlysc_plan2d.jpg)
+![Plan 3d](media_palmares/qlysc_plan3d.jpg)
+> Plan de l'installation Quand les yeux se croisent par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et  Patricia Nassif.
 ### Mon expérience
 #### Points positifs
 - La concept de se faire observer lors de l'exposition est intéressant, car les autres projets des finissant TIM se sont plus concentrés sur une installation intéractive de similaire à un jeu vidéo.
