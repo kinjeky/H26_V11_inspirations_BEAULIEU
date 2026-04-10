@@ -167,6 +167,6 @@ Un mur intéractif en fabrique est quelque chose que je n'ai jamais vu avant. Il
 
 Pour créer un bon mur intéractif il faut choisir une bonne taille de toile ou le nombre de toile idéal pour le projet ainsi que le fonctionnement du mur. Est ce qu'il me faut une grosse toile ou plusieurs petites toiles? Est ce que je vais utiliser des caméras pour voir les mouvements du l'utilisateur ou je vais prendre des stylos spécialisé, car mon exposition demande un peu plus de précion. Tout cela est important pour pouvoir créer un bon mur intéractif.
 
-Il existe aussi des murs qui utilisents des écrants tactiles (stlyle Ipad) pour pouvoiur intéragir, mais cela vient souvent avec un coût plus élévé (surtout pour un mur qui est plus grand).
+Il existe aussi des murs qui utilisents des écrants tactiles (stlyle Ipad) pour pouvoir intéragir, mais cela vient souvent avec un coût plus élévé (surtout pour un mur qui est plus grand).
 
 Source : https://www.digilor.fr/mur-interactif-comment-ca-marche/
