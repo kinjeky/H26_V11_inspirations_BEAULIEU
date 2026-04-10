@@ -150,7 +150,23 @@ En général le dispositif fonctionne très bien et possède un concept intéres
 
 
 ## Cours important pour la réalisation de projets similaire en TIM
-### Cours 01
-### Cours 02
-### Cours 03
+### Cours 01 - Audio
+Le cours d'audio est très important pour pouvoir faire ce genre de dispositif, car un bon audio permet de créer un environment immersif à l'intérieur de l'exposition. Il permet aussi de comprendre comment le son intéragi avec l'environment et comment certain son peuvent créer une émotion. 
+
+
+### Cours 02 - Web/programmation
+Les codes html, css et javascript permettent de créer des installations qui sont intéractive. Il permet aux personnes d'intéragir avec l'exposition grâce à des boutons, levier etc. pré-programmer. 
+
+
+### Cours 03 - Animation
+Les cours d'animation permettent de faire des animations ou des images visuels qui peuvent êtres présentes dans les expositons intéractives. Une bonne animation ou des bonnes images permmetent aussi une meilleures immersions.
+
+
 ### Composante technique ou technologique non connu avant la présentation des projets
+Un mur intéractif en fabrique est quelque chose que je n'ai jamais vu avant. Il utilise des caméras qui reconnaissent le mouvement pour créer une impression d'écran tactile. Le mur en tissus permet de mettre les utilisateurs en action, ce qui permet de créer une immersion dynamique. Un projecteur est utilié pour projetter les images sur le ou les murs en toiles. 
+
+Pour créer un bon mur intéractif il faut choisir une bonne taille de toile ou le nombre de toile idéal pour le projet ainsi que le fonctionnement du mur. Est ce qu'il me faut une grosse toile ou plusieurs petites toiles? Est ce que je vais utiliser des caméras pour voir les mouvements du l'utilisateur ou je vais prendre des stylos spécialisé, car mon exposition demande un peu plus de précion. Tout cela est important pour pouvoir créer un bon mur intéractif.
+
+Il existe aussi des murs qui utilisents des écrants tactiles (stlyle Ipad) pour pouvoiur intéragir, mais cela vient souvent avec un coût plus élévé (surtout pour un mur qui est plus grand).
+
+Source : https://www.digilor.fr/mur-interactif-comment-ca-marche/
