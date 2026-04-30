@@ -20,7 +20,7 @@ La base de de train de métro comprend une installation interactive qui explique
 ## Ma conclusion 
 J'ai beaucoup apprécié la conférence avec Martin Boucher, car il m'a ouvert les yeux sur le multimédia au niveaux professionnel. Par exemple, quel équipement ils utilisent et comment ils font pour faire communiquer tout cet équipement ensemble. Ou même quel logiciel ils utilisent pour l'animation. C'est un aperçu qui m'est très utile pour de me préparer au monde du multimédia.
 
-![Garage du Musée de l'ingéniosité J. Armand-Bombardier](media/Garage_musée_de_ingéniosité_Armand-Bombardier)
+![Garage du Musée de l'ingéniosité J. Armand-Bombardier](media/Garage_musée_de_ingéniosité_Armand-Bombardier.jpg)
 > Garage du Musée de l'ingéniosité J. Armand-Bombardier
 
 Source: https://museebombardier.com/expositions/histoires-de-passions/
