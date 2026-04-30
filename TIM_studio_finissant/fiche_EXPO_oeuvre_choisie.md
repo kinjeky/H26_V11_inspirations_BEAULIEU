@@ -4,7 +4,7 @@
 
 
 ## Introduction
-Terminal est un prjet des finissants du programme de multimédia du collège Montmorency. Le projet est un mini-jeu qui utilise le téléphone des visiteurs pour controller un personnage. Le style de jeu est similaire à des vieux jeux d'arcade (ex. Pac Man).
+Terminal est un projet des finissants du programme de multimédia du collège Montmorency. Le projet est un mini-jeu qui utilise le téléphone des visiteurs pour controller un personnage. Le style de jeu est similaire à des vieux jeux d'arcade (ex. Pac Man).
 
 
 ![Cartel utiliser pour décrire le cartel de la création multimédiatique de Marie-eve Levasseur](mediaUDM_DPPAI/cartel_01.JPG)
