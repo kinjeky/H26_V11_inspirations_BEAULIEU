@@ -1,13 +1,13 @@
 # Terminal de Émerik Béliste, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger
-![Un casque VR sur une chaise en contre plonger](mediaUDM_DPPAI/VR_chaise.png)
->Photo de l'une des chaise et l'un des casques VR dans l'oeuvre "Techno-compost" de Marie-eve Levasseur fait durant une sortie scolaire. La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
+![Logo de TIM à l'entrée du grand studio de Montmorency](media_terminal/TIM.jpg)
+>Logo de TIM à l'entrée du grand studio de Montmorency pris par Rosa-Lee Savoie
 
 
 ## Introduction
 Terminal est un projet des finissants du programme de multimédia du collège Montmorency. Le projet est un mini-jeu qui utilise le téléphone des visiteurs pour controller un personnage. Le style de jeu est similaire à des vieux jeux d'arcade (ex. Pac Man).
 
 
-![Cartel utiliser pour décrire le cartel de la création multimédiatique de Marie-eve Levasseur](mediaUDM_DPPAI/cartel_01.JPG)
+![Cartel utiliser pour décrire le projet TERMINAL](media_terminal/)
 >Cartel de l'oeuvre de Marie-eve Levasseur de l'oeuvre "techno-compost". La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
 
 
