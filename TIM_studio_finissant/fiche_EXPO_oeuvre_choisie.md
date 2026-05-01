@@ -1,14 +1,13 @@
 # Terminal de Émerik Béliste, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger
-![Logo de TIM à l'entrée du grand studio de Montmorency](media_terminal/TIM.jpg)
->Logo de TIM à l'entrée du grand studio de Montmorency pris par Rosa-Lee Savoie
+
 
 
 ## Introduction
 Terminal est un projet des finissants du programme de multimédia du collège Montmorency. Le projet est un mini-jeu qui utilise le téléphone des visiteurs pour controller un personnage. Le style de jeu est similaire à des vieux jeux d'arcade (ex. Pac Man).
 
 
-![Cartel utiliser pour décrire le projet TERMINAL](media_terminal/)
->Cartel de l'oeuvre de Marie-eve Levasseur de l'oeuvre "techno-compost". La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
+![Cartel utiliser pour décrire le projet TERMINAL](media_terminal/cartel_terminal.jfif)
+>Cartel de l'oeuvre TERMINAL prise par Rosa-Lee Savoie et Nanthapricha Beaulieu
 
 
 ## L'oeuvre que j'ai choisi
@@ -17,9 +16,8 @@ J'ai choisi l'oeuvre Terminal. Elle s'est situé dans le grand studio du collèg
 L'oeuvre à été créée et présenté par Émerik Béliste, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger lors de la session d'hiver 2026 à Montmorency.
 
 
-![Démonstration de la création multimédiatique de Marie-eve Levasseur à partir du coté gauche de sa création où l'on peut voir deux chaises avec un casque VR dessus ainsi que certaines des images "compostées"](mediaUDM_DPPAI/vue_ensemble_01.png)
-![Démonstration de la créattion multimédiatique "compost" de Marie-eve Levasseur qui montre une personne assis sur une chaise en pleine immerson à partir du ca. On peut observer que la chaise est connecter à un pc et un prodjecteur met une des images composté sur le mur gauche de l'oeuvre.](mediaUDM_DPPAI/vue_ensemble_02.png)
->Photo qui montre la façon que l'oeuvre de Marie-eve Levasseur est placé. La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
+![](media_terminal/vue_cote.jpg)
+>Photo qui montre le jeu TERMINAL sur le mur pris par Rosa-Lee et Nanthapricha Beaulieu
 
 
 
@@ -69,20 +67,19 @@ Le dipositif est un pc connecté au WIFI et à un projecteur qui projette l'imag
 
 - Carte graphique extérieur (1): Pour projeter les données vers les couleurs de lumières
 
-![Une élève en pleine immersion dans la création "Compost" multimédiatique de Marie-eve Levasseur](mediaUDM_DPPAI/utilisation_VR_02.png)
+![](media_terminal/projecteur_terminal.jfif)
 
-![Un élève en pleine immersion dans la création "Compost" multimédiatique de Marie-eve Levasseur](mediaUDM_DPPAI/utilisation_vr.png)
->Photos de deux élève en immersion dans l'oeuvre de Marie-eve Levasseur "Techno-compost". La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
+![](media_terminal/routeur.jpg)
+>Photo des prjecteurs et du routeur utilisés dans le projet TERMINAL pris par Rosa-Lee Savoie et Amélie Pelletier
 
 
 ## Diagramme de l'oeuvre
-![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme_plan.png)
-![Diagramme de l'oeuvre de Marie-eve Levasseur](mediaUDM_DPPAI/diagramme_techno-compost_02.png)
+![](media_terminal/terminal_plan2d-arriere.png)
+![](media_terminal/terminal_plan2d-dessus.png)
+![](media_terminal/terminal_plan3d-arriere.jpg)
+![](media_terminal/terminal_plan3d-cote.jpg)
+>Diagramme fait par l'équipe de TERMINAL
 
-
-
-![Un casque VR sur une chaise vue à un angle de 45 degrée vers la gauche](mediaUDM_DPPAI/VR_sur_chaise.png)
->Photo d'un casque Vr sur une dchaise dans l'oeuvre "Techno-compost" de Marie-eve Levasseur. La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
 
 
 ## Mon avis sur l'oeuvre
@@ -97,10 +94,10 @@ Pour mes plaintes:
 J'aimerais retenir l'utilisation de routeur wifi pour pouvoir se connecter à l'oeuvre à travers nos téléphones.
 
 
-![Image de l'élève Nanthapricha Beaulieu devant l'affiche de l'exposition mutimédiatique de l'UDEM](mediaUDM_DPPAI/devant_affiche.png)
->Photo de l'élève Nanthapricha beaulieu devant l'affice de la galerie de l'université de Montréal. La photo a été prise par Amélie Pelletier dans un contexte scolaire.
+![Logo de TIM à l'entrée du grand studio de Montmorency](media_terminal/TIM.jpg)
+>Logo de TIM à l'entrée du grand studio de Montmorency pris par Rosa-Lee Savoie
 
 ## Référence
-Photo prise par: Nanthapricha Beaulieu et Amélie Pelletier dans un contexte scolaire.
+Photo prise par: Nanthapricha Beaulieu, Rosa-Lee Ssvoie et Amélie Pelletier dans un contexte scolaire.
 
-[Galerie de UDEM](https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php)
+[Lien ver le projet TERMINAL](https://pythons-5.github.io/Terminal/#/)
