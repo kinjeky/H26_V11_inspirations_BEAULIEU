@@ -71,7 +71,7 @@ Mes plaintes :
 
 
 
-![Image de l'élève Nanthapricha Beaulieu devant l'affiche de l'exposition Nanualuk](media)
+![Image de l'élève Nanthapricha Beaulieu devant l'affiche de l'exposition Nanualuk](media/moi_nanualuk.jpg)
 >Photo de l'élève Nanthapricha beaulieu devant l'affice de la galerie de l'université de Montréal. La photo a été prise par Amélie Pelletier dans un contexte scolaire.
 
 ## Référence
