@@ -1,6 +1,5 @@
 # Feu feu joli feu par le centre des sciences de Montréal en collaboration avec GSM project dans le projet Nanualuk
-![Un casque VR sur une chaise en contre plonger](mediaUDM_DPPAI/VR_chaise.png)
->Photo de l'une des chaise et l'un des casques VR dans l'oeuvre "Techno-compost" de Marie-eve Levasseur fait durant une sortie scolaire. La photo a été prise par Nanthapricha Beaulieu dans un contexte scolaire.
+
 
 
 ## Introduction
@@ -59,7 +58,7 @@ Le dispositif comporte deux éléments pricipaux : L'écran et le faux feu au mi
 
 
 ## Diagramme de l'oeuvre
-![Diagramme de l'oeuvre de Marie-eve Levasseur](media/diagramme_feu)
+![Diagramme de l'oeuvre de Marie-eve Levasseur](media/diagramme_feu.png)
 >Diagramme de l'oeuvre Feu feu joli feu dans l'exposition Nanualuk au Centre des sciences de Montréal
 
 
